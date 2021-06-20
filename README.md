@@ -1,17 +1,16 @@
 <h1 align="center">Hi 👋, I'm Zeroknights</h1>
 <h3 align="center">A Developer From Germany</h3>
 
-<p align="left"> <img src="https://img.shields.io/youtube/channel/subscribers/UC-xlQoCzQpATClQV5b1Dpiw?label=Developer%20box&logo=Youtube&style=for-the-badge" alt="malibyk" />
-<p align="left">  <img src="https://komarev.com/ghpvc/?username=malibyk&label=Profile%20views&color=0e75b6&style=flat" alt="malibyk" />
+<p align="left">  <img src="https://komarev.com/ghpvc/?username=malibyk&label=Profile%20views&color=0e75b6&style=flat" alt="zeroknights16" />
 </p>
 
-- 🔭 I’m currently working on **My Discord Bot And Open Sources Applications**
+- 🔭 I’m currently working on **My Discord Bots**
 
 - 🌱 I’m currently learning **everything 🤣**
 
 - 💬 Ask me about **Javascript**
 
-- 📫 How to reach me **malibyk00@gmail.com**
+- 📫 How to reach me on Discord: **Zeroknights#9457**
 
 - ⚡ Fun fact **I love sports.**
 
