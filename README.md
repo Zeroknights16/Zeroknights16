@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zeroknights</h1>
 <h3 align="center">A Developer From Germany</h3>
 
-<p align="left">  <img src="https://komarev.com/ghpvc/?username=malibyk&label=Profile%20views&color=0e75b6&style=flat" alt="zeroknights16" />
+<p align="left">  <img src="https://komarev.com/ghpvc/?username=zeroknights16&label=Profile%20views&color=0e75b6&style=flat" alt="zeroknights16" />
 </p>
 
 - 🔭 I’m currently working on **My Discord Bots**
