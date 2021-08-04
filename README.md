@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **My Discord Bots**
 
-- 🌱 I’m currently learning **everything 🤣**
+- 🌱 I’m currently learning **HTML**
 
 - 💬 Ask me about **Javascript**
 
