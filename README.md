@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **My Discord Bots**
 
-- 🌱 I’m currently learning **HTML**
+- 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **Javascript**
+- 💬 Ask me about **Javascript, HTML**
 
 - 📫 How to reach me on Discord: **Zeroknights#0001**
 
