@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Javascript, HTML**
 
-- 📫 How to reach me on Discord: **Zeroknights#0001**
+- 📫 How to reach me on Discord: **Zeroknights#2373**
 
 
 <h3 align="left">Languages and Tools:</h3>
