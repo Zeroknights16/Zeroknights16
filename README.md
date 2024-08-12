@@ -4,13 +4,13 @@
 <p align="left">  <img src="https://komarev.com/ghpvc/?username=zeroknights16&label=Profile%20views&color=0e75b6&style=flat" alt="zeroknights16" />
 </p>
 
-- 🔭 I’m currently working on **My Discord Bots**
+- 🔭 I’m currently studying **Artificial Intelligence** in Austria
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently running my own small **Development team**
 
 - 💬 Ask me about **Javascript, HTML**
 
-- 📫 How to reach me on Discord: **Zeroknights#2373**
+- 📫 How to reach me on Discord: **Zeroknightss**
 
 
 <h3 align="left">Languages and Tools:</h3>
