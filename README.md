@@ -6,9 +6,7 @@
 
 - 🔭 I’m currently studying **Artificial Intelligence** in Austria
 
-- 🌱 I’m currently running my own small **Development team**
-
-- 💬 Ask me about **Javascript, HTML**
+- 💬 Ask me about **Javascript, Java & Python**
 
 - 📫 How to reach me on Discord: **Zeroknightss**
 
